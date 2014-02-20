@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [wilmoore/selectn](http://github.com/wilmoore/selectn). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/wilmoore-selectn`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # selectn [![Build Status](https://travis-ci.org/wilmoore/selectn.png?branch=master)](https://travis-ci.org/wilmoore/selectn) [![Build Status](https://david-dm.org/wilmoore/selectn.png)](https://david-dm.org/wilmoore/selectn) [![NPM version](https://badge.fury.io/js/selectn.png)](http://badge.fury.io/js/selectn)
 
   Resolves deeply-nested object properties via dot or bracket-notation for [Node.js][] and the browser.
